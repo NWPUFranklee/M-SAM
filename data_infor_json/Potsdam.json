@@ -1,0 +1,16 @@
+{
+    "info": {
+        "1": "Buildings",
+        "2": "Low vegetation",
+        "3": "Trees",
+        "4": "Cars",
+        "5": "Clutter"
+    },
+    "color": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+    }
+}
